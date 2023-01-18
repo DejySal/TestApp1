@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpLIaiNRSFnkmMCNVLveC9Y1lJ6npsITSFl0U749qalaxL7cd7owpWR1DTJVogFJrjHv6FiDXc0Cyw2e1CdgkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yemi.akinto_stackpro\\source\\repos\\TestApp1\\TestApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yemi.akinto_stackpro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
