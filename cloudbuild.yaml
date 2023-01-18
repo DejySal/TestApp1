@@ -1,0 +1,12 @@
+steps:
+- name: 'gcr.io/cloud-builders/git'
+  args: ['clone', 'https://github.com/DejySal/TestApp1.git']
+  env: ['business-systems-test', '_OUTPUT_IMAGE']
+
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/business-systems-test/farmersedge', '.']
+  env: ['business-systems-test', '_OUTPUT_IMAGE']
+  
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/business-systems-test/farmersedge']
+  env: ['business-systems-test', '_OUTPUT_IMAGE']
