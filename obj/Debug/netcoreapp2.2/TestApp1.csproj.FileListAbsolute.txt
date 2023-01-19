@@ -1,0 +1,5 @@
+C:\Users\yemi.akinto_stackpro\source\repos\TestApp1\obj\Debug\netcoreapp2.2\TestApp1.csproj.AssemblyReference.cache
+C:\Users\yemi.akinto_stackpro\source\repos\TestApp1\obj\Debug\netcoreapp2.2\TestApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemi.akinto_stackpro\source\repos\TestApp1\obj\Debug\netcoreapp2.2\TestApp1.AssemblyInfoInputs.cache
+C:\Users\yemi.akinto_stackpro\source\repos\TestApp1\obj\Debug\netcoreapp2.2\TestApp1.AssemblyInfo.cs
+C:\Users\yemi.akinto_stackpro\source\repos\TestApp1\obj\Debug\netcoreapp2.2\TestApp1.csproj.CoreCompileInputs.cache
